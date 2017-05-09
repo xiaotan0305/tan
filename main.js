@@ -1,4 +1,5 @@
-window.onload=function(){
+window.onload = function () {
+	alert(123);
 	//轮播图
 	var oShow_img=document.getElementById('first_img')
 	var oUl=document.getElementById('show_img');
